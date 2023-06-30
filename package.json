@@ -1,9 +1,8 @@
 {
-    "name": "service-template",
+    "name": "notifications-service",
     "main": "index.ts",
-    "description": "A template for micro-services deployed to AWS with Pulumi",
+    "description": "A micro-service for handling push notifications to the app",
     "scripts": {
-        "use-template": "source use-template.sh"
     },
     "volta": {
         "node": "14.0.0"

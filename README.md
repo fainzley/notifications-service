@@ -1,16 +1,5 @@
-# service-template
+# Notifications Service
 
-A template for micro-services deployed to AWS with Pulumi
+A micro-service for handling push notifications to the app.
 
-## How to use this template
-
-```
-git clone git@github.com:fainzley/service-template.git
-cd service-template
-npm run use-template
-```
-
-## What is included in the template
-
-- Pulumi TypeScript code
-- A deploy and preview GitHub action
+This repository was created using the [fainzley service-template](https://github.com/fainzley/service-template).
